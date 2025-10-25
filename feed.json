@@ -1,0 +1,15 @@
+{
+  "title": "My N64 Feed",
+  "categories": [
+    {
+      "title": "Nintendo 64 Games",
+      "items": [
+        {
+          "title": "Super Mario 64",
+          "type": "n64",
+          "url": "https://yourhost.com/super-mario-64.z64"
+        }
+      ]
+    }
+  ]
+}
